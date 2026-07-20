@@ -1,5 +1,4 @@
-// CodeAlpha Internship - Task 1: CGPA Calculator
-// Takes course grades and credit hours, computes semester GPA and overall CGPA.
+
 
 #include <iostream>
 #include <vector>
